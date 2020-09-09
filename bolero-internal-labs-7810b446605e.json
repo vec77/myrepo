@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bolero-internal-labs",
+  "private_key_id": "7810b446605e8c74989db71df7288493b9c5732f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXWwhzD1FfgIqr\nIIgrmn74KPpkDmxzMIpglLTWxfYZIRKk2NDFXOZRV0vHTdIE+w+l+ZYt1oBVDHCM\n68h4Rj/2pkVLUj3utLYM3Joq8pjYHzr4s9ZOzb8pMOFDM0Loi7t8oFyOLIi0istZ\n+HWhGigIo0Y12fv8zv3aYX4GvhV9suUm6TeoJaqLRHdcqJxCr5GJnuEzIPpS+1Nj\nuamEtOg9/IilgWvoDRIzAnxYeeCkMVka0YzFu4x8GaNCkCpKCKT/U556QvzmknDK\nPkKF+nbUb3WDlj8eCRiy59VA3OT0I0/fw8CsO65k8XLKOiBxlfr3AIao4PPnD3zn\nEJ3UUMivAgMBAAECggEAAjsMU9txQtV7L47siihqr0RcD5mXUFF3kCI021Kn8Wux\nHJRYWUBUlxFvP1cULqlbvfg0sNswxMYWYQdM3Mi8KeBgBbSKNVpEK87vKTRjwT1V\nkt+TVTP2tRpaAvmuyZIvn3iubL8+V+xmHdOf2ErZO6RWpQEnMIpZASA9uhvRmisx\nfdH0qHXB3PFaLzsR7Fg6dLjx++Z5ESuC3Jo9sX50hb3fMMTu4i9Ih5TlFr43IhdS\n/TmYmAGxT9mpxv8zArrPtj8Tr8O4ddFIOStxSz+UzHxfCA89l55bgcCc0sgNcLf0\nbyHHR4aSyNxgWiDls0WlSgGIxWg3TAt06FLs8danrQKBgQD/XfRl7yax87GdM8wB\n0rONRAXxCzqJwsg7iUeDvYw5WQ8pCjcpbGfPMb+2WUrr141vHl5mjJz5E1GkNjyw\nh6gS8zakVA+8WZPSZvRjcB5S/R1JoKUs2psV9/y9h5LaqQF0Fbs4E3abCrKKGFWe\nh7drDDir2yocILu/QSOjwaenZQKBgQDX47BRWIx09yeTu6cu3Yr05DZuvLB2GnJP\nr8r5EFObBXZK8Ag03MDWEaGN4UbC536cqJJkiNWsCA9ZXsxGr8bqxhygE/HtEVWX\nfgBY4p52p+251aPUqGP4QVDSsDjsZiK+Z3ZvFuiIiQKtrJTv99FnIZea12X/9xFy\n75bkiluggwKBgGkN7Oo2bVPN7ia+1VF2rdkSv+L+/JEJ6bfcbOg8hUBebAc1JaZL\n65ToYXcR2umVHqE0/B7x/+3TzcVhbqws0q8hETyfPG3+5/op0qZJzJ/Vc0QD64+9\nSwnJoFcUPAzqdCeefQu/rg5wYyy+gBKcwI8wUuwYWIWDzdkLYi8PDvqlAoGBAJH6\nOUynzUGBpVc1edQspTr13QB/wen58/WB7oL+0SlvRg9hworMAfA9t7mR7CD6Gxie\nu24TQDe0s3xAp2vci2pQTybGlb0xDWkEIAP6KCAfaJVRqhevTPmeYKI12ieu4CtT\nFjgDi3RXAGKi4YppTUSo6DQhFa1ASKIo8yTRkSc1AoGAbcp75CU1nSouBkRSFsrA\nkAWfGl0vBrhykx9UGhWrs2gu3obnzbFLZpfhLMyyDuVeHNrpTKUA+9CRhJRjFwBE\nNsEkg04Hszo8NpVPV8ytkTeT8gh+Wb+wcKSPuMmR5GuEFLRe+0V02vwQ2vI10Ny8\n2YEQoTMcK0c1wbaD5KIgXzc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@bolero-internal-labs.iam.gserviceaccount.com",
+  "client_id": "114558581679920848120",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40bolero-internal-labs.iam.gserviceaccount.com"
+}
