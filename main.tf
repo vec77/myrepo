@@ -10,7 +10,7 @@ resource "google_monitoring_alert_policy" "alert_policy" {
     display_name = "Allocator - CPU Utilization"
     condition_threshold {
       filter     = "metric.type=\"compute.googleapis.com/instance/cpu/utilization\" AND resource.type=\"gce_instance\" AND metadata.system_labels.name=\"instance-1\""
-      duration   = "60s"
+      duration   = "65s"
       comparison = "COMPARISON_GT"
       threshold_value = "0.8"
       trigger {
